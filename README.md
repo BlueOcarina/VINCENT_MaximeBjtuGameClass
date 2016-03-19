@@ -6,6 +6,13 @@ Student ID: 15 12 90 71
 
 Type of game: Vertical Scrolling 2D Shooter (Shoot them Up)
 
+
+Target audiance: Players who like classic shooters, 
+			 Arcade nostalgics,
+			 People who like a bit of challenge.
+
+
+
 Rules:
 	-The player has a character that can move in 2D (left-right/Up-Down)
 	
